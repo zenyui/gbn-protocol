@@ -1,7 +1,7 @@
 # go-back-n
 **Abbreviated Go-back-n protocol implemented in C, similar to TCP/IP**
 
-Cornell Tech | Networked and Distributed Systems<br>Jon Cutler (jlc553), Zen Yui (jzy6)
+Cornell Tech | Networked and Distributed Systems | Fall 2017<br>Jon Cutler (jlc553), Zen Yui (jzy6)
 
 
 ### Overview
